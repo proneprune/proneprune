@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jonathan</h1>
+<h1 align="center">👋Hi, I'm Jonathan👋</h1>
 <h3 align="center">I'm currently a second year student at the Royal Institute of Technology in Stockholm, Sweden. I am currently studying a civil engineering degree in information & communication technology. I have always had a deep passion for technology and computers and this has led me to not only study but also pursue a career in programming and software development!</h3>
 
 - Email: **jcullgert@gmail.com**
