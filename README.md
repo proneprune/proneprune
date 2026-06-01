@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Jonathan a fourth year student at the Royal Institute of Technology in Stockholm. I have finished my bachelors degree in IT and am currently pursuing a masters degree in cybersecurity. Ontop of my masters degree I am still very interested in software engineering and am trying to improve my knowledge in programming as often as possible.<br><br>- 📚 I'm currently learning Rust and cryptography</p>
+<p align="left">I'm Jonathan a fourth year student at the Royal Institute of Technology in Stockholm. I have finished my bachelors degree in IT and am currently pursuing a masters degree in cybersecurity. Ontop of my masters degree I am very interested in software engineering and am trying to improve my knowledge in programming as often as possible.<br><br>- 📚 I'm currently learning Rust and cryptography</p>
 
 ###
 
