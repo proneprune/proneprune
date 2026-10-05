@@ -78,7 +78,7 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-![Language Leaderboard](stats/leaderboard_by_bytes.png)
+![Language Leaderboard](stats/pie_by_weighted.png)
 <!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=proneprune&locale=en&hide_title=false&layout=compact&card_width=322&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
