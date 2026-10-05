@@ -1,0 +1,25 @@
+name: Update Language Statistics
+
+on:
+  schedule:
+    # Runs every night at midnight UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Allows you to run it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate Language Analytics
+        uses: StefVuck/Github-Language-Stats@v1.2.0
+        with:
+          github_token: ${{ secrets.STATS_TOKEN }}
+          visualization_types: "leaderboard bar pie"
+          output_path: "stats"
+          exclude_languages: "HTML,CSS"
